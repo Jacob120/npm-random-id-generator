@@ -1,6 +1,6 @@
 # Random Id Generator
 
-This is an npm package.
+This is an npm package. Direct link to [nmpjs.com](https://www.npmjs.com/package/@jacob120/random-id-generator)
 
 Install with `npm i @jacob120/random-id-generator`
 
